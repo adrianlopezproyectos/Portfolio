@@ -22,15 +22,15 @@ function efectoHabilidades(){
     if(distancia_skills >= 300){
         let habilidades = document.getElementsByClassName("progreso");
         habilidades[0].classList.add("javascript");
-        habilidades[1].classList.add("htmlcss");
-        habilidades[2].classList.add("photoshop");
-        habilidades[3].classList.add("wordpress");
-        habilidades[4].classList.add("drupal");
-        habilidades[5].classList.add("comunicacion");
-        habilidades[6].classList.add("trabajo");
-        habilidades[7].classList.add("creatividad");
-        habilidades[8].classList.add("dedicacion");
-        habilidades[9].classList.add("proyect");
+        habilidades[1].classList.add("python");
+        habilidades[2].classList.add("sql");
+        habilidades[3].classList.add("php");
+        habilidades[4].classList.add("htmlcss");
+        habilidades[5].classList.add("powerbi");
+        habilidades[6].classList.add("excel");
+        habilidades[7].classList.add("plotly");
+        habilidades[8].classList.add("pandas");
+        habilidades[9].classList.add("react");
     }
 }
 
